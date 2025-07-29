@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 34
-        length: 3
+        length: 2
         placeholder_text: ???
         initial_state:
           length: 3
@@ -12,19 +12,19 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 7fwRgGhI1XP/fa9HQT0KaQ==
         selected: false
-        status: Unchecked
-      - offset: 100
-        length: 41
+        status: Solved
+      - offset: 99
+        length: 4
         placeholder_text: "# a boolean value for truthful statements"
         initial_state:
           length: 41
           offset: 100
         initialized_from_dependency: false
         encrypted_possible_answer: pOFxq+VTymWmt5O+IDuWdQ==
-        selected: false
-        status: Unchecked
-      - offset: 197
-        length: 48
+        selected: true
+        status: Solved
+      - offset: 159
+        length: 5
         placeholder_text: "# a boolean value for not so truthful statements"
         initial_state:
           length: 48
@@ -32,11 +32,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 5mQdfUytsGrA4YsWOYVtcA==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Boolean+Operators
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 29 Jul 2025 01:36:28 UTC"
 record: -1
