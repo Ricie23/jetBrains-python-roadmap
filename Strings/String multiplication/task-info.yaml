@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 29
-        length: 6
+        length: 16
         placeholder_text: '''TODO'''
         initial_state:
           length: 6
@@ -12,7 +12,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: kD+FObku7Zrv6mi6vwtYKfxK6G6FErAkPym77wv8hNE=
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/__init__.py
     visible: false
@@ -21,5 +21,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+String+Multiplication
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 29 Jul 2025 01:40:08 UTC"
 record: -1
