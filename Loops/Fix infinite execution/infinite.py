@@ -3,7 +3,8 @@ def should_not_be_infinite():  # Function definition. Do not mind it for now.
 
     while i < 15:
         print("Hello, World!")
-        # TODO
+        if i == 5:
+            break
 
 
 # The main block. Please do not mind it at the moment. You will learn about it later in the course.

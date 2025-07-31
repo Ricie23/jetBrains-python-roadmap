@@ -9,8 +9,7 @@ print("Finished")  # This code is executed once
 square = 0
 number = 1
 
-# Print all squares from 1 to 81.
-# Use a while statement and a condition here.
+while number < 10:
     square = number ** 2
     print(square)
     number += 1
